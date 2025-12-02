@@ -1,0 +1,15 @@
+artifact_uri: file:c:\Users\estee\OneDrive\Desktop\Amdari\Project 1 - Stock_Mkt_Trend
+  Analysis\Stock-analysis\mlruns/304546802448392265/98d7a4174df44f8ca59121263dcc6ff2/artifacts
+end_time: 1764471518809
+entry_point_name: ''
+experiment_id: '304546802448392265'
+lifecycle_stage: active
+run_id: 98d7a4174df44f8ca59121263dcc6ff2
+run_name: Baseline_Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764471510616
+status: 3
+tags: []
+user_id: estee

@@ -2,9 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
+mlruns/.trash/
 
 # C extensions
 *.so
+**/tmp/
 
 # Distribution / packaging
 .Python

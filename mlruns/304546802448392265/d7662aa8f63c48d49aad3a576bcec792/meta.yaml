@@ -1,0 +1,15 @@
+artifact_uri: file:c:\Users\estee\OneDrive\Desktop\Amdari\Project 1 - Stock_Mkt_Trend
+  Analysis\Stock-analysis\mlruns/304546802448392265/d7662aa8f63c48d49aad3a576bcec792/artifacts
+end_time: 1764471526927
+entry_point_name: ''
+experiment_id: '304546802448392265'
+lifecycle_stage: active
+run_id: d7662aa8f63c48d49aad3a576bcec792
+run_name: Baseline_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764471519793
+status: 3
+tags: []
+user_id: estee

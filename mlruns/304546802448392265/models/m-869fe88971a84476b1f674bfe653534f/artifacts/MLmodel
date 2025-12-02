@@ -1,0 +1,44 @@
+artifact_path: file:c:\Users\estee\OneDrive\Desktop\Amdari\Project 1 - Stock_Mkt_Trend
+  Analysis\Stock-analysis\mlruns/304546802448392265/models/m-869fe88971a84476b1f674bfe653534f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+is_signature_from_type_hint: false
+mlflow_version: 3.5.1
+model_id: m-869fe88971a84476b1f674bfe653534f
+model_size_bytes: 73051462
+model_uuid: m-869fe88971a84476b1f674bfe653534f
+prompts: null
+run_id: 03414857aaf74e84ad3a7215271e2108
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "sp500_return", "required": true}, {"type":
+    "double", "name": "nasdaq_return", "required": true}, {"type": "double", "name":
+    "vix_return", "required": true}, {"type": "double", "name": "sp500_return_lag1",
+    "required": true}, {"type": "double", "name": "nasdaq_return_lag1", "required":
+    true}, {"type": "double", "name": "vix_return_lag1", "required": true}, {"type":
+    "double", "name": "sp500_5d_return", "required": true}, {"type": "double", "name":
+    "nasdaq_5d_return", "required": true}, {"type": "double", "name": "momentum_10",
+    "required": true}, {"type": "double", "name": "price_to_sma_50", "required": true},
+    {"type": "double", "name": "return_1d", "required": true}, {"type": "double",
+    "name": "return_1d_lag1", "required": true}, {"type": "double", "name": "volume_lag1",
+    "required": true}]'
+  outputs: '[{"type": "integer", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-30 03:26:15.336662'

@@ -1,0 +1,11 @@
+artifact_location: file:c:\Users\estee\OneDrive\Desktop\Amdari\Project 1 - Stock_Mkt_Trend
+  Analysis\Stock-analysis\mlruns/304546802448392265/models/m-e2f2eb601ed34cc4bd2ade254f6b3b91/artifacts
+creation_timestamp: 1764471510829
+experiment_id: '304546802448392265'
+last_updated_timestamp: 1764471518782
+model_id: m-e2f2eb601ed34cc4bd2ade254f6b3b91
+model_type: null
+name: model
+source_run_id: 98d7a4174df44f8ca59121263dcc6ff2
+status: 2
+status_message: null

@@ -1,0 +1,11 @@
+artifact_location: file:c:\Users\estee\OneDrive\Desktop\Amdari\Project 1 - Stock_Mkt_Trend
+  Analysis\Stock-analysis\mlruns/304546802448392265/models/m-869fe88971a84476b1f674bfe653534f/artifacts
+creation_timestamp: 1764473175217
+experiment_id: '304546802448392265'
+last_updated_timestamp: 1764473183445
+model_id: m-869fe88971a84476b1f674bfe653534f
+model_type: null
+name: tuned_rf_model
+source_run_id: 03414857aaf74e84ad3a7215271e2108
+status: 2
+status_message: null
